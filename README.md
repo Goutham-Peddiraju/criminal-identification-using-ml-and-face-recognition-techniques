@@ -1,0 +1,2 @@
+# criminal-identification-using-ml-and-face-recognition-techniques
+The study "Criminal Identification Using Machine Learning and Face Recognition" explores how ML algorithms improve criminal identification accuracy. Using CNNs and SVMs, it addresses challenges like lighting and expressions, leading to higher rates and fewer false positives, ultimately enhancing public safety and investigative efficiency.
